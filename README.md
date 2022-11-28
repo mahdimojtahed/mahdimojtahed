@@ -1,6 +1,5 @@
-Hi, I’m Mahdyar Mojtahed , I’m an Employed Civil Engineer ! :heart:
-- But I’m interested in Programming :heart_eyes:
-- Now i know HTML/CSS/JS , Node.JS, MongoDB , React and React Native :)
-- Also A little bit of JAVA :)
+Hi, I’m Mahdi Mojtahed ! :heart:
+- FreeLance Mern Stack Decveloper :)
+- Also A JAVA Programmer :)
 - How to reach me :
-- email: mahdyarmojtahed@gmail.com / instagram : @mahdyarmojtahed / instagram: @area_zeroone
+- email: mojtahedwork@gmail.com
