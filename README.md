@@ -1,5 +1,3 @@
-Hi, I’m Mahdi Mojtahed ! :heart:
-- FreeLance Mern Stack Developer :)
-- Also A JAVA Programmer :)
+- Java / JavaScript developer 
 - How to reach me :
 - email: mojtahedwork@gmail.com
